@@ -28,7 +28,7 @@ Font Awesome — Icons for UI elements
 The layout automatically adapts to different screen sizes, making it accessible on desktops, tablets, and mobile devices.
 
 📂 Folder Structure
-``` Amazon_clone/
+``` Amazon.com_clone/
 │
 ├── images/
 │   ├── amazon_logo.png
@@ -42,15 +42,15 @@ The layout automatically adapts to different screen sizes, making it accessible 
 ├── style.css
 └── README.md 
 ```
-## 🛠️ Project Setup (Amazon_clone)
+## 🛠️ Project Setup (Amazon.com_clone)
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ankita-codeshub/Amazon_clone.git
+   git clone https://github.com/ankita-codeshub/Amazon.com_clone.git
    ```
 2. Open the folder in your editor:
    ```bash
-   cd Amazon_clone
+   cd Amazon.com_clone
    ```
 3. Open `index.html` in your browser:
    *(or use “Open with Live Server” in VS Code)*
