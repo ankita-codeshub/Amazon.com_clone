@@ -66,12 +66,5 @@ Built a real-world-style landing page from scratch
 ## ⚠️ Disclaimer:
 
 This project is created solely for educational and non-commercial purposes.
-All product images, logos, and brand names belong to Amazon.com, Inc.
+All product images, logos, and brand names belong to Amazon.com, Inc.It is a non-commercial clone of the Amazon.com UI.
 
-💻 Project Setup
-To view the project locally:
-
-git clone https://github.com/ankita-codeshub/Amazon_clone.git
-cd Amazon_clone
-
-Then open the index.html file in your browser.
