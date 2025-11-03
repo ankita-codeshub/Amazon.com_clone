@@ -1,4 +1,4 @@
-🛒 Amazon Homepage Clone
+## 🛒 Amazon.com Homepage Clone
 
 A responsive Amazon.com homepage clone built using pure HTML and CSS.
 This project recreates the core layout and UI of Amazon’s main page — including the navigation bar, search bar, hero banner, product grid, and footer.
@@ -41,7 +41,7 @@ The layout automatically adapts to different screen sizes, making it accessible 
 ├── index.html
 ├── style.css
 └── README.md 
-
+```
 ## 🛠️ Project Setup (Amazon_clone)
 
 1. Clone this repository:
